@@ -861,7 +861,7 @@ ChainResult result = chain.execute();`}</code>
               <h4 className="font-bold mb-3">Connect</h4>
               <ul className="space-y-2 text-gray-400 text-sm">
                 <li>
-                  <a href="https://github.com/RPDevJesco" target="_blank" rel="noopener noreferrer" className="hover:text-white transition-colors flex items-center space-x-2">
+                  <a href="https://github.com/RPDevJesco?tab=repositories&q=eventchain" target="_blank" rel="noopener noreferrer" className="hover:text-white transition-colors flex items-center space-x-2">
                     <Github className="w-4 h-4" />
                     <span>GitHub</span>
                   </a>
